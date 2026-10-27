@@ -1,3 +1,11 @@
-#PORT CHECKER
+# PORT CHECKER
+
 hey folks !
->Purpose of this Project 
+
+>Purpose
+ I just learned **NETWORKING** and **PORT** to <ins>showcase my learnig outcome</ins> i build an *PORT CHECKER* website 
+
+>guide 
+```python
+python app.py 
+```
